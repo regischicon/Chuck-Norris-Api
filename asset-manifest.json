@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Chuck-Norris-Api/static/css/main.7002ca71.css",
+    "main.js": "/Chuck-Norris-Api/static/js/main.80025e97.js",
+    "static/js/787.df72ff96.chunk.js": "/Chuck-Norris-Api/static/js/787.df72ff96.chunk.js",
+    "static/media/chuck.jpg": "/Chuck-Norris-Api/static/media/chuck.e53d0b9f5969b0dbbd2d.jpg",
+    "index.html": "/Chuck-Norris-Api/index.html",
+    "main.7002ca71.css.map": "/Chuck-Norris-Api/static/css/main.7002ca71.css.map",
+    "main.80025e97.js.map": "/Chuck-Norris-Api/static/js/main.80025e97.js.map",
+    "787.df72ff96.chunk.js.map": "/Chuck-Norris-Api/static/js/787.df72ff96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7002ca71.css",
+    "static/js/main.80025e97.js"
+  ]
+}
